@@ -1,2 +1,4 @@
 theme: jekyll-theme-minimal
-title: Hein Aung Zan's CV
+title: ![optional text description of the image][number]
+[number]: URL
+description: Hein Aung Zan's CV

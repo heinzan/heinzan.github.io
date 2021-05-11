@@ -49,7 +49,7 @@ Work as freelance mobile developer.
 ## 👩🏼‍🎓 Education
 
 **Bachelor of Computer Science** <br>
-[University of Computer Studies Yangon]
+University Of Computer Studies, Yangon.
 
 **Diploma in Java** <br>
 [India Myanmar Center for enhancement of IT skills. IMCEITS,Yangon ](https://ictresearch.edu.mm/imceits/)

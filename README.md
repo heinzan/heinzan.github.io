@@ -4,6 +4,7 @@ _Mobile devleloper based in Yangon, Myanmar_ <br>
 
 [Email](mailto:heinzan202281@gmail.com) / [LinkedIn](https://www.linkedin.com/in/hein-zan-93a855136) / [GitHub](https://github.com/heinzan) / [Twitter](https://twitter.com/HeinZan2) / [Stackoverflow](https://stackoverflow.com/users/6127461/h-zan)
 
+
 ## 👩🏼‍💻 Technical Experience
 
 **Junior Android Developer** @ [Xan Software House](http://www.xan.com.mm/) _(Apr 2016 - Sep 2017)_ <br>
@@ -40,11 +41,13 @@ Work as freelance mobile developer.
   - Developed employee rewarded mobile application(Flutter) for Curlsburg Myanmar Co., Ltd.
   - Developed Delivery project(Customer and Delivery) with flutter for a Company from Singapore.
 
+
 ## 💬 Languages
 
 **English**: Intermediate <br>
 **Burmese**: Native
 <br><br>
+
 
 ## 👩🏼‍🎓 Education
 
@@ -63,7 +66,14 @@ University Of Computer Studies, Yangon.
 **Certificate in Introduction to Flutter Development Using Dart**<br>
 [Angela](https://www.appbrewery.co/p/intro-to-flutter)
 
+
 ## 💻🌟 Career Objective
  - To obtain employment where my knowledge and skills will be applicable and thereby prove to be an asset to the company.
  - I wish to take on a more responsible role which would offer me a stimulating work atmosphere with fresh challenges every day.
 
+
+## 🏅🏅 Interests
+ - Football ⚽
+ - Hiking 🧗
+ - Gaming 🎮
+ - Reading 📖

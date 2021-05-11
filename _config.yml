@@ -1,4 +1,3 @@
 theme: jekyll-theme-minimal
-title: ![optional text description of the image][number]
-[number]: https://github.com/heinzan/my_cv/blob/gh-pages/cv.jpeg
+title: [https://github.com/heinzan/my_cv/blob/gh-pages/cv.jpeg]
 description: Hein Aung Zan's CV

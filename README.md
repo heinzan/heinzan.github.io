@@ -17,7 +17,7 @@ Developed in-house and outsource android application.
 **Android Developer** @ [BluePlanet Co., Ltd](https://blueplanet.com.mm/) _(Dec 2017 - Feb 2019)_ <br>
 Developed in-house and outsource android application.
   - Building a new video streaming application of MyTel. ([MyClip](https://play.google.com/store/apps/details?id=mm.com.blueplanet.videoclip.release&hl=en_IE))
-  - **_Technologies used:_** Java, Android Studio , Vimeo , Json , 
+  - **_Technologies used:_** Java, Android Studio , Vimeo , Json , Git , Slack , Trello
 <br><br>
 
 **Senior Android Developer** @ Bestproperty Software house _(Apr 2019 - Dec 2019)_ <br>
@@ -25,7 +25,7 @@ Developed in-house android application.
   - Extending and maintaining shuttle bus([Happygogo](https://play.google.com/store/apps/details?id=com.happygogo.consumer&hl=en&gl=US)) android application.
   - Developed happygogo application with flutter.
   - Extending and maintaining property android application.
-  - **_Technologies used:_** Java, Kotlin , Flutter , Dart ,  Android Studio ,  Json , Firebase 
+  - **_Technologies used:_** Java, Kotlin , Flutter , Dart ,  Android Studio ,  Json , Firebase , Git
 <br><br>
 
 **Mobile Developer** @ [EasyPay Co., Ltd](https://www.easypay.com.mm/) _(Mar 2020 - Present)_ <br>
@@ -33,7 +33,7 @@ Developed in-house android application.
   - Extending and maintaining [EasyPay](https://play.google.com/store/apps/details?id=com.easypaymyanmar&hl=en&gl=US) android application.
   - Extending and maintaining IBA(Ecommerce) android application.
   - Developed customer service android and ios application.
-  - **_Technologies used:_** Java, Kotlin , Flutter , Dart ,  Android Studio ,  Json , Firebase , GoogleMap
+  - **_Technologies used:_** Java, Kotlin , Flutter , Dart ,  Android Studio ,  Json , Firebase , GoogleMap , GitLab
 <br><br>
 
 ## 📌 On The Side
@@ -68,12 +68,12 @@ University Of Computer Studies, Yangon.
 
 
 ## 💻🌟 Career Objective
- - To obtain employment where my knowledge and skills will be applicable and thereby prove to be an asset to the company.
- - I wish to take on a more responsible role which would offer me a stimulating work atmosphere with fresh challenges every day.
+  - To obtain employment where my knowledge and skills will be applicable and thereby prove to be an asset to the company.
+  - I wish to take on a more responsible role which would offer me a stimulating work atmosphere with fresh challenges every day.
 
 
-## 🏅🏅 Interests
- - Football ⚽
- - Hiking 🧗
- - Gaming 🎮
- - Reading 📖
+## 🌟🌟 Interests
+  - Football ⚽
+  - Hiking 🧗
+  - Gaming 🎮
+  - Reading 📖

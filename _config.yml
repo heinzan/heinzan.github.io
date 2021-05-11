@@ -1,4 +1,4 @@
 theme: jekyll-theme-minimal
 title: ![optional text description of the image][number]
-[number]: URL
+[number]: https://github.com/heinzan/my_cv/blob/gh-pages/cv.jpeg
 description: Hein Aung Zan's CV

@@ -14,8 +14,8 @@ Developed in-house and outsource android application.
 <br><br>
 
 **Android Developer** @ [BluePlanet Co., Ltd](https://blueplanet.com.mm/) _(Dec 2017 - Feb 2019)_ <br>
-Developed inhouse and outsource android application.
-  - Building a new video streaming application of MyTel [MyClip](https://play.google.com/store/apps/details?id=mm.com.blueplanet.videoclip.release&hl=en_IE).
+Developed in-house and outsource android application.
+  - Building a new video streaming application of MyTel. ([MyClip](https://play.google.com/store/apps/details?id=mm.com.blueplanet.videoclip.release&hl=en_IE))
   - **_Technologies used:_** Java, Android Studio , Vimeo , Json , 
 <br><br>
 

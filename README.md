@@ -62,3 +62,8 @@ University Of Computer Studies, Yangon.
 
 **Certificate in Introduction to Flutter Development Using Dart**<br>
 [Angela](https://www.appbrewery.co/p/intro-to-flutter)
+
+## 💻🌟 Career Objective
+ - To obtain employment where my knowledge and skills will be applicable and thereby prove to be an asset to the company.
+ - I wish to take on a more responsible role which would offer me a stimulating work atmosphere with fresh challenges every day.
+

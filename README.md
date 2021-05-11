@@ -19,8 +19,8 @@ Developed inhouse and outsource android application.
   - **_Technologies used:_** Java, Android Studio , Vimeo , Json , 
 <br><br>
 
-**Senior Android Developer** @ (Bestproperty Software house) _(Apr 2019 - Dec 2019)_ <br>
-Developed inhouse android application.
+**Senior Android Developer** @ Bestproperty Software house _(Apr 2019 - Dec 2019)_ <br>
+Developed in-house android application.
   - Extending and maintaining shuttle bus([Happygogo](https://play.google.com/store/apps/details?id=com.happygogo.consumer&hl=en&gl=US)) android application.
   - Developed happygogo application with flutter.
   - Extending and maintaining property android application.
@@ -28,7 +28,7 @@ Developed inhouse android application.
 <br><br>
 
 **Mobile Developer** @ [EasyPay Co., Ltd](https://www.easypay.com.mm/) _(Mar 2020 - Present)_ <br>
-Developed inhouse android application.
+Developed in-house android application.
   - Extending and maintaining [EasyPay](https://play.google.com/store/apps/details?id=com.easypaymyanmar&hl=en&gl=US) android application.
   - Extending and maintaining IBA(Ecommerce) android application.
   - Developed customer service android and ios application.

@@ -7,9 +7,9 @@ _Mobile devleloper based in Yangon, Myanmar_ <br>
 ## 👩🏼‍💻 Technical Experience
 
 **Junior Android Developer** @ [Xan Software House](http://www.xan.com.mm/) _(Apr 2016 - Sep 2017)_ <br>
-Developed inhouse and outsource android application.
+Developed in-house and outsource android application.
   - Extending and maintaining Xan ebook android application
-  - Building a new Mobile Banking software of KBZ Bank[link](https://www.kbzbank.com/en/).
+  - Building a new Mobile Banking software of [KBZ Bank](https://www.kbzbank.com/en/).[KBZ android application](https://play.google.com/store/apps/details?id=com.ofss.fcdb.mobile.android.phone.kbz.launcher&hl=en&gl=US)
   - **_Technologies used:_** Java, Xml , Android Studio
 <br><br>
 

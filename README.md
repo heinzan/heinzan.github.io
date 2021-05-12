@@ -1,9 +1,32 @@
 # Hein Aung Zan
 
-_Mobile devleloper based in Yangon, Myanmar_ <br>
+_My name is Hein Aung Zan,born on the **23th of June 1993**._<br> _I live in Yangon, Myanmar._ <br> _I am a Mobile Developer 🤖 🍎_ <br>
 
 [Email](mailto:heinzan202281@gmail.com) / [LinkedIn](https://www.linkedin.com/in/hein-zan-93a855136) / [GitHub](https://github.com/heinzan) / [Twitter](https://twitter.com/HeinZan2) / [Stackoverflow](https://stackoverflow.com/users/6127461/h-zan)
 
+
+## 👩🏼‍🎓 Education
+
+**Bachelor of Computer Science** <br>
+University Of Computer Studies, Yangon.
+
+**Diploma in Java** <br>
+[India Myanmar Center for enhancement of IT skills. IMCEITS,Yangon ](https://ictresearch.edu.mm/imceits/)
+
+**Certificate in Android programming course** <br>
+[India Myanmar Center for enhancement of IT skills. IMCEITS,Yangon ](https://ictresearch.edu.mm/imceits/)
+
+**Certificate in Android programming course** <br>
+[Professional Android Developer Course](http://www.padc.com.mm/home)
+
+**Certificate in Introduction to Flutter Development Using Dart**<br>
+[Angela](https://www.appbrewery.co/p/intro-to-flutter)
+<br><br>
+
+## 💻⭐ Career Objective
+  - To obtain employment where my knowledge and skills will be applicable and thereby prove to be an asset to the company.
+  - I wish to take on a more responsible role which would offer me a stimulating work atmosphere with fresh challenges every day.
+<br><br>
 
 ## 👩🏼‍💻 Technical Experience
 
@@ -36,6 +59,7 @@ Developed in-house android application.
   - **_Technologies used:_** Java, Kotlin , Flutter , Dart ,  Android Studio ,  Json , Firebase , GoogleMap , GitLab
 <br><br>
 
+
 ## 📌 On The Side
 Work as freelance mobile developer.
   - Developed employee rewarded mobile application(Flutter) for Curlsburg Myanmar Co., Ltd.
@@ -47,29 +71,6 @@ Work as freelance mobile developer.
 **English**: Intermediate <br>
 **Burmese**: Native
 <br><br>
-
-
-## 👩🏼‍🎓 Education
-
-**Bachelor of Computer Science** <br>
-University Of Computer Studies, Yangon.
-
-**Diploma in Java** <br>
-[India Myanmar Center for enhancement of IT skills. IMCEITS,Yangon ](https://ictresearch.edu.mm/imceits/)
-
-**Certificate in Android programming course** <br>
-[India Myanmar Center for enhancement of IT skills. IMCEITS,Yangon ](https://ictresearch.edu.mm/imceits/)
-
-**Certificate in Android programming course** <br>
-[Professional Android Developer Course](http://www.padc.com.mm/home)
-
-**Certificate in Introduction to Flutter Development Using Dart**<br>
-[Angela](https://www.appbrewery.co/p/intro-to-flutter)
-
-
-## 💻🌟 Career Objective
-  - To obtain employment where my knowledge and skills will be applicable and thereby prove to be an asset to the company.
-  - I wish to take on a more responsible role which would offer me a stimulating work atmosphere with fresh challenges every day.
 
 
 ## 🌟🌟 Interests

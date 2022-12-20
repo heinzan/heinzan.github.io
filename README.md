@@ -63,7 +63,6 @@ Developed in-house android application.
 Developed in-house android and ios application.
   - Extending and maintaining [FocusBeauty](https://play.google.com/store/apps/details?id=mm.com.xan.focusbeauty&hl=en&gl=US&pli=1) android application.
   - Extending and maintaining [FocusBeauty](https://apps.apple.com/mm/app/focus-beauty/id1530683002) ios application.
-  - .
   - **_Technologies used:_**  Flutter , Dart ,  Android Studio 
 <br><br>
 

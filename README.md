@@ -51,7 +51,7 @@ Developed in-house android application.
   - **_Technologies used:_** Java, Kotlin , Flutter , Dart ,  Android Studio ,  Json , Firebase , Git
 <br><br>
 
-**Mobile Developer** @ [EasyPay Co., Ltd](https://www.easypay.com.mm/) _(Mar 2020 - Present)_ <br>
+**Mobile Developer** @ [EasyPay Co., Ltd](https://www.easypay.com.mm/) _(Mar 2020 - Feb 2021)_ <br>
 Developed in-house android application.
   - Extending and maintaining [EasyPay](https://play.google.com/store/apps/details?id=com.easypaymyanmar&hl=en&gl=US) android application.
   - Extending and maintaining IBA(Ecommerce) android application.
@@ -59,11 +59,20 @@ Developed in-house android application.
   - **_Technologies used:_** Java, Kotlin , Flutter , Dart ,  Android Studio ,  Json , Firebase , GoogleMap , GitLab
 <br><br>
 
+**Senior Mobile Engineer** @ [ZoteFamily Co., Ltd](https://zotefamily.com//) _(Aug 2021 - Present)_ <br>
+Developed in-house android and ios application.
+  - Extending and maintaining [FocusBeauty](https://play.google.com/store/apps/details?id=mm.com.xan.focusbeauty&hl=en&gl=US&pli=1) android application.
+  - Extending and maintaining [FocusBeauty](https://apps.apple.com/mm/app/focus-beauty/id1530683002) ios application.
+  - .
+  - **_Technologies used:_**  Flutter , Dart ,  Android Studio 
+<br><br>
 
 ## 📌 On The Side
 Work as freelance mobile developer.
   - Developed employee rewarded mobile application(Flutter) for Curlsburg Myanmar Co., Ltd.
   - Developed Delivery project(Customer and Delivery) with flutter for a Company from Singapore.
+  - Developed Cleaning service application for private hotel use.(Android/Ios).
+  - Developed Repair service application for private hotel use.(Android/Ios).
 
 
 ## 💬 Languages
